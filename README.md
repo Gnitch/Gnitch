@@ -6,7 +6,7 @@
 - 👋 Konnichiwa,Im Sujoy Dcunha pursuing bachelor's in computer science engineering.
 - ⚡ I build web apps and bots for Fun.
 - 🖥️ Interested in Reinforcement Learning.
-- 🌸 Addicted to Anime/Manga
+- 🌸 Addicted to Anime/Manga/Manhwa
 
 ## Languages:
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
