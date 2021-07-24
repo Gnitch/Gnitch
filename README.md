@@ -1,6 +1,6 @@
 <h1 align="center">👋 Konnichiwa </h1>
 
-- 🖥️ Website: ![https://gnitch.github.io/](https://gnitch.github.io/) .
+- 🖥️ Website: [https://gnitch.github.io/](https://gnitch.github.io/) .
 - 🌸 Im Sujoy Dcunha pursuing bachelor's in computer science engineering.
 - ⚡ I build web apps and bots for Fun.
 - 🖥️ Interested in Deep Learning.
