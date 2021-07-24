@@ -1,10 +1,10 @@
-<h1 align="center">Konnichiwa 🌸</h1>
+<h1 align="center">👋 Konnichiwa </h1>
 
-- 👋 Konnichiwa,Im Sujoy Dcunha pursuing bachelor's in computer science engineering.
+- 🌸 Im Sujoy Dcunha pursuing bachelor's in computer science engineering.
 - ⚡ I build web apps and bots for Fun.
 - 🖥️ Interested in Deep Learning.
 - 🖥️ Currently Learning GANS
-- 🌸 Addicted to Anime/Manga/Manhwa
+- 🌸 I like to watch Anime and read Manga/Manhwa
 
 ## Languages:
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
