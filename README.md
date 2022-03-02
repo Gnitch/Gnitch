@@ -5,7 +5,7 @@
 - ⚡ I build web apps and bots for Fun.
 - 🖥️ Interested in Deep Learning.
 - 🖥️ Currently Learning GANS
-- 🌸 I like to watch Anime and read Manga/Manhwa
+- 🌸 I like to watch Anime/Kdrama and read Manga/Manhwa
 
 ## Languages:
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
