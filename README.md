@@ -3,8 +3,7 @@
 - 🖥️ Website : [https://gnitch.github.io/](https://gnitch.github.io/) .
 - 🌸 Im Sujoy Dcunha pursuing bachelor's in computer science engineering.
 - ⚡ I build web apps and bots for Fun.
-- 🖥️ Interested in Deep Learning.
-- 🖥️ Currently Learning GANS
+- 🖥️ Deep Learning Enthusiast.
 - 🌸 I like to watch Anime/Kdrama and read Manga/Manhwa
 
 ## Languages:
