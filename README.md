@@ -1,10 +1,8 @@
-<h1 align="center">👋 Konnichiwa </h1>
+<h1 align="center">👋 Hello !!! I'm Sujoy Dcunha </h1>
 
-- 🖥️ Website : [https://gnitch.github.io/](https://gnitch.github.io/) .
-- 🌸 Im Sujoy Dcunha pursuing bachelor's in computer science engineering.
+- 🖥️ [https://gnitch.github.io/](https://gnitch.github.io/) .
 - ⚡ I build web apps and bots for Fun.
 - 🖥️ Deep Learning Enthusiast.
-- 🌸 I like to watch Anime/Kdrama and read Manga/Manhwa
 
 ## Languages:
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
