@@ -1,32 +1,21 @@
-<h1 align="center">👋 Hello !!! I'm Sujoy Dcunha </h1>
+<h1 align="center">Sujoy Dcunha </h1>
+I am a passionate Computer Engineering graduate with over two years of hands-on experience as an SAP Consultant. My career journey has allowed me to work closely with various clients across the globe. I am continuously seeking opportunities to grow and expand my knowledge in data-driven technologies, aiming to contribute to projects that harness the power of data for informed decision-making.
+<!-- - 🖥️ [https://gnitch.github.io/](https://gnitch.github.io/) . -->
 
-- 🖥️ [https://gnitch.github.io/](https://gnitch.github.io/) .
-- ⚡ I build web apps and bots for Fun.
-- 🖥️ Deep Learning Enthusiast.
 
 ## Languages:
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat&logo=c&logoColor=white)
-![](https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Technologies:
 ![](https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat&logo=react&logoColor=%2361DAFB)
-![](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/django%20-%23092E20.svg?&style=flat&logo=django&logoColor=white)
-![](https://img.shields.io/badge/SASS%20-hotpink.svg?&style=flat&logo=SASS&logoColor=white)
-![](https://img.shields.io/badge/heroku%20-%23430098.svg?&style=flat&logo=heroku&logoColor=white)
-![](https://img.shields.io/badge/Repl.it%20-%230D101E.svg?&style=flat&logo=Repl.it&logoColor=white)
 ![](https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/postgres-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/sqlite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white)
-![](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=flat&logo=oracle&logoColor=white)
-![](https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=flat&logo=TensorFlow&logoColor=white)
-![](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)
+
 
 ## Tools:
 ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white)
