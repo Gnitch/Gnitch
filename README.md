@@ -28,6 +28,6 @@ I am a passionate Computer Engineering graduate with over two years of hands-on 
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sujoydcunha)
 [![](https://img.shields.io/badge/Kaggle-141321?style=flat&logoColor=blue)](https://www.kaggle.com/gnitch)
 
-
+<!-- 
 ![Gnitch github stats](https://github-readme-stats.vercel.app/api?username=Gnitch&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gnitch&theme=tokyonight&langs_count=10&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gnitch&theme=tokyonight&langs_count=10&layout=compact) -->
