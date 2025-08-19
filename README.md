@@ -1,5 +1,5 @@
 <h1 align="center">Sujoy Dcunha </h1>
-I am a passionate Computer Engineering graduate with over two years of hands-on experience as an SAP Consultant. My career journey has allowed me to work closely with various clients across the globe. I am continuously seeking opportunities to grow and expand my knowledge in data-driven technologies, aiming to contribute to projects that harness the power of data for informed decision-making.
+Computer Engineering graduate and SAP Consultant with 2+ years of techno-functional experience in SAP S/4HANA, SRM, and MM. Skilled in bridging business requirements with technical solutions, building data-driven applications using FastAPI, Docker, PostgreSQL, and AI integration. Passionate about leveraging technology to optimize processes, drive insights, and deliver impactful solutions.
 <!-- - 🖥️ [https://gnitch.github.io/](https://gnitch.github.io/) . -->
 
 
